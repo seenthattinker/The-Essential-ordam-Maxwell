@@ -1,0 +1,24 @@
+# Downloaded media files
+source_material/*.mp4
+source_material/*.mp3
+source_material/*.avi
+source_material/*.mkv
+source_material/*.wav
+source_material/*.flac
+source_material/*.mov
+source_material/*.webm
+source_material/*.m4a
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Temporary files
+*.tmp
+*.log
